@@ -72,15 +72,77 @@ ListSignal provides live business intelligence for online businesses, offering r
 
 Everything profiled for ListSignal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/listsignal-com/](https://apis.io/providers/listsignal-com/)** — or go straight to one of the APIs or properties below.
 
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ListSignal Domain Security](https://apis.io/security/listsignal-com/listsignal-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [ListSignal Plans Pricing](https://apis.io/plans/listsignal-com/listsignal-com-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://listsignal.com/)
+- [Documentation](https://listsignal.com/developers)
+- [API reference](https://listsignal.com/openapi.json)
+- [Pricing](https://listsignal.com/pricing)
+- [Security](https://listsignal.com/top/security)
+- [Terms of service](https://listsignal.com/terms)
+- [Privacy policy](https://listsignal.com/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/listsignal-com/](https://apis.io/providers/listsignal-com/).
+**Kin Score 21.2** — emerging · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 59.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/listsignal-com/](https://apis.io/providers/listsignal-com/).
 
 ## How this profile is made
 
